@@ -12,13 +12,15 @@ function setup(){
 }
 
 function draw(){
+    fill(182, 201, 15)
     circle(40,40,40)
-    rect(60,30,400,20)
     circle(450,40,40)
-    rect(440,60,20,300)
     circle(450,350,40)
-    rect(60,345,370,20)
     circle(40,350,40)
+    fill(231, 94, 94)
+    rect(60,30,370,20)
+    rect(440,60,20,270)
+    rect(60,345,370,20) 
     rect(30,60,20,270)
 
     image(video,150,100,200,200);

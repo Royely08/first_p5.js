@@ -1,9 +1,9 @@
 body{
     text-align: center;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Merienda', cursive;
 }
 
 label{
-    font-size: bold;
-    color: red;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
 }
